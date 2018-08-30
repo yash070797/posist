@@ -1,7 +1,7 @@
 # posist
 
 # You can select option from:
-1: insert more
+1: insert more\n
 2: see data with node number
 3: exit
 4: transfer ownership by nodeNumber.
